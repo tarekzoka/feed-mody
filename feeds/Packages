@@ -1,0 +1,293 @@
+Package: enigma2-plugin-settings-emil.motor
+Version: v3.0
+Depends: enigma2
+Section: settings
+Architecture: all
+MD5Sum: 23a2fc3814e12c8a970c2776da17c267
+Size: 576162
+Filename: enigma2-plugin-settings-emil.motor_v3.0_all.ipk
+Description: channels by emil nabil
+Maintainer: emil
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+Package: enigma2-plugin-extensions-neoboot
+Version: v9.58-r3-reboot
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: b2dc4c4794384572363f01295be695e7
+Size: 7924354
+Filename: enigma2-plugin-extensions-neoboot_v9.58-r3-reboot_all.ipk
+Description: NeoBoot
+Maintainer: NeoBoot
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+Package: enigma2-plugin-extensions-ajpanel
+Version: v6.0.0
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 81f4477ab12eb37ab546877ce264e8a0
+Size: 261678
+Filename: enigma2-plugin-extensions-ajpanel_v6.0.0_all.ipk
+Description: Enigma2 Tools
+Maintainer: AMA-Jamry
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+
+Package: enigma2-plugin-extensions-dreamsatpanel
+Version: 1.3
+Depends: 
+Section: extra
+Architecture: all
+MD5Sum: f4d86d853536fb8152779657ab326c89
+Size: 2104
+Filename: enigma2-plugin-extensions-dreamsatpanel_1.3_all.ipk
+Description: DreamSatPanel All You Need
+Maintainer: LINUXSAT
+Priority: optional
+Source: 
+Homepage: 
+OE: 
+License: 
+
+
+
+Package: enigma2-plugin-extensions-dreamsatpanel-py-3.10.4
+Version: 1.4
+Depends: python3-six, python3-imaging
+Section: extra
+Architecture: all
+MD5Sum: cdd001c719ce936b231a1144864476db
+Size: 742332
+Filename: enigma2-plugin-extensions-dreamsatpanel-py-3.10.4_1.4_all.ipk
+Description: DreamSatPanel All You Need
+Maintainer: LINUXSAT
+Priority: optional
+Source: unknown
+Homepage: unknown
+OE: unknown
+License: unknown
+
+
+Package: enigma2-plugin-extensions-levi45multicammanager
+Version: 9.5-r2
+Depends: enigma2
+Section: misc
+Architecture: all
+MD5Sum: 5306215f998a24c9e88cc210b0788c28
+Size: 2826526
+Filename: enigma2-plugin-extensions-levi45multicammanager_9.5-r2_all.ipk
+Description: Addon/Multicam Manager by Levi45
+Maintainer: levi45
+Priority: optional
+Source: satellite-forum.com
+Homepage: satellite-forum.com
+OE: unknown
+License: unknown
+
+
+
+Package: enigma2-plugin-skins-nacht
+Version: 1.7.3_DunkelHD_Shr776.packed.Lucek
+Depends: 
+Section: extra
+Architecture: all
+MD5Sum: e3d8069ef66d24cdae1f219c0db64450
+Size: 18543496
+Filename: enigma2-plugin-skins-nacht_1.7.3_DunkelHD_Shr776.packed.Lucek_all.ipk
+Description: Nacht full hd skin by digiteng
+Maintainer: digiteng
+Priority: optional
+Source: 
+Homepage: 
+OE: OE 2.0
+License: 
+
+
+
+Package: enigma2-plugin-softcams-cccam-all-images
+Version: 239-r4-RAED_OE2.0
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 237c3a8060037716ff2817d2ff6d5ecd
+Size: 1412254
+Filename: enigma2-plugin-softcams-cccam-all-images_239-r4-RAED_OE2.0_all.ipk
+Description: CCcam version 239 to all images OE2.0 (Modified by RAED)
+Maintainer: RAED
+Priority: optional
+Source: 
+Homepage: www.tunisia-sat.com
+OE: 
+License: 
+
+
+
+Package: enigma2-plugin-softcams-oscam
+Version: 11.708
+Depends: libcurl4
+Section: 
+Architecture: all
+MD5Sum: c0c732a7631dfc8176cdae2df821066e
+Size: 3107282
+Filename: enigma2-plugin-softcams-oscam_11.708_all.ipk
+Description: oscam to all images OE2.0 (Patched and Build by linuxsat)
+Maintainer: linuxsat
+Priority: optional
+Source: 
+Homepage: www.tunisia-sat.com
+OE: 
+License: Proprietary
+
+
+
+
+Package: enigma2-plugin-softcams-ncam
+Version: V13.0-r0
+Depends: libcurl4
+Section: 
+Architecture: all
+MD5Sum: 7e9f126d3ba5c943efc3638664cecf2f
+Size: 4949386
+Filename: enigma2-plugin-softcams-ncam_V13.0-r0_all.ipk
+Description: oscam to all images OE2.0 (Patched and Build by linuxsat)
+Maintainer: RAED (rrrr53@hotmail.com)
+Priority: optional
+Source: 
+Homepage: www.tunisia-sat.com
+OE: 
+License: Proprietary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
