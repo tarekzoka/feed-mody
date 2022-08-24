@@ -215,6 +215,19 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-extensions-tspanel
+Version: 8.0
+Depends: 
+Section: extra
+Architecture: all
+MD5Sum: 13eab93ebc2e96951568446330d3ff27
+Size: 2560726
+Filename: enigma2-plugin-extensions-tspanel_8.0_all.ipk
+Description: TSpanel-everything for your image
+Maintainer: mFaraj <mfaraj57@gmail.com>
+Priority: optional
+Source: 
+Homepage: http://www.tunisia-sat.com/vb/forumdisplay.php?f=14
 
 
 
