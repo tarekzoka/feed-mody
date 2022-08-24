@@ -233,6 +233,22 @@ Homepage: *
 
 
 
+Package: enigma2-plugin-extensions-arabicsavior
+Version: v1.9
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 7d897c41313817c1cc7c2ebf2dac0d46
+Size: 2629570
+Filename: enigma2-plugin-extensions-arabicsavior_v1.9_all.ipk
+Description: ArabicSavior
+Maintainer: ArabicSavior
+Priority: optional
+Source: none
+Homepage: unknown
+
+
+
 
 
 
