@@ -217,6 +217,22 @@ Source:
 Homepage: http://www.tunisia-sat.com/vb/forumdisplay.php?f=14
 
 
+Package: enigma2-plugin-extensions-oscamstatus
+Version: 4.0
+Depends: 
+Section: extra
+Architecture: all
+MD5Sum: ce7d1c65f63534e30628a6b033abea4f
+Size: 76216
+Filename: enigma2-plugin-extensions-oscamstatus_4.0_all.ipk
+Description: OscamStatus Plugin by puhvogel modified by kitte888 2022 for Python3 und 2 und Ncam
+Maintainer: pr2
+Priority: optional
+Source: *
+Homepage: *
+
+
+
 
 
 
