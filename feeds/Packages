@@ -179,11 +179,40 @@ License: Proprietary
 
 
 
+Package: enigma2-plugin-extensions-bootlogoswapper-kids
+Version: v2.4-emil_nabil
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 9137cd09c9b752f403a0ee14b23de4a0
+Size: 17523758
+Filename: enigma2-plugin-extensions-bootlogoswapper-kids_v2.4-emil_nabil_all.ipk
+Description: BootLogoSwapper
+Maintainer: emil
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
 
 
 
 
-
+Package: enigma2-plugin-settings-tarek-ashry
+Version: v3.0-emil
+Depends: 
+Section: settings
+Architecture: all
+MD5Sum: d36f20c683caca331a24f5f8e730ca10
+Size: 912996
+Filename: enigma2-plugin-settings-tarek-ashry_v3.0-emil_all.ipk
+Description: channels by tarek ashry
+Maintainer: emil
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
 
 
 
