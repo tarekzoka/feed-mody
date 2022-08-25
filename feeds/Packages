@@ -272,7 +272,7 @@ Depends: enigma2
 Section: base
 Architecture: all
 MD5Sum: cc636c867809c3af7844544c3caeda02
-Size: 2629570
+Size: 7009438
 Filename: enigma2-plugin-extensions-raedquicksignal_fairbird_all.ipk
 Description: plugin-extensions-raedquicksignal
 Maintainer: plugin-extensions-raedquicksignal
@@ -280,6 +280,7 @@ Priority: optional
 Source: none
 Homepage: unknown
 License: none
+
 
 
 
