@@ -288,8 +288,8 @@ Version: 2.1
 Depends: 
 Section: base
 Architecture: all
-MD5Sum: 2deb9afd8375bbbfc6d0e6cad5ca28f2
-Size: 4416118
+MD5Sum: d87443ae9e19443450e3a5f6cb2afc33
+Size: 7009438
 Filename: enigma2-plugin-extensions-raedquicksignal_fairbird_all.ipk
 Description: plugin-quran-karim
 Maintainer: OE-Core
