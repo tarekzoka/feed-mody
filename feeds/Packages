@@ -266,6 +266,22 @@ Homepage: https://github.com/oottppxx/enigma2/
 OE: enigma2-plugin-extensions-quarterpounder
 
 
+Package: enigma2-plugin-extensions-raedquicksignal
+Version: fairbird
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: cc636c867809c3af7844544c3caeda02
+Size: 2629570
+Filename: enigma2-plugin-extensions-raedquicksignal_fairbird_all.ipk
+Description: plugin-extensions-raedquicksignal
+Maintainer: plugin-extensions-raedquicksignal
+Priority: optional
+Source: none
+Homepage: unknown
+License: none
+
+
 
 
 
