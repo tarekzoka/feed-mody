@@ -105,8 +105,8 @@ Version: 1.7.3_DunkelHD_Shr776.packed.Lucek
 Depends: 
 Section: extra
 Architecture: all
-MD5Sum: e3d8069ef66d24cdae1f219c0db64450
-Size: 18543496
+MD5Sum: ee5ba8e60c902d78d6d326a8a343bbb3
+Size: 1110
 Filename: enigma2-plugin-skins-nacht_1.7.3_DunkelHD_Shr776.packed.Lucek_all.ipk
 Description: Nacht full hd skin by digiteng
 Maintainer: digiteng
@@ -280,16 +280,6 @@ Priority: optional
 Source: none
 Homepage: unknown
 License: none
-
-
-
-
-
-
-
-
-
-
 
 
 
