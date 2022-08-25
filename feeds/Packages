@@ -283,6 +283,25 @@ License: none
 
 
 
+Package: enigma2-plugin-extensions-quran-karim
+Version: 2.1
+Depends: 
+Section: base
+Architecture: all
+MD5Sum: 2deb9afd8375bbbfc6d0e6cad5ca28f2
+Size: 4416118
+Filename: enigma2-plugin-extensions-raedquicksignal_fairbird_all.ipk
+Description: plugin-quran-karim
+Maintainer: OE-Core
+Priority: optional
+Source: none
+Homepage: www.tunisia-sat.com
+License: none
+OE: enigma2-plugins
+
+
+
+
 
 
 
