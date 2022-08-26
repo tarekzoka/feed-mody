@@ -319,6 +319,98 @@ OE: enigma2
 
 
 
+Package: enigma2-plugin-extensions-iptosat
+Version: 1.8
+Depends: exteplayer3 , gstplayer
+Section: base
+Architecture: all
+MD5Sum: 425bfdd1daef7a70687df6824663c9b7
+Size: 13638
+Filename: enigma2-plugin-extensions-iptosat_1.8_all.ipk
+Description: enigma2 plugin OE2.0
+Maintainer: ziko-ZR1
+Priority: optional
+Source: https://github.com/ziko-ZR1/IPtoSAT
+Homepage: 
+License: 
+OE: 
+
+
+Package: enigma2-plugin-softcams-oscam
+Version: 11.711-emu-r798
+Depends: libcurl4
+Section: 
+Architecture: all
+MD5Sum: ce44b4b109c72e8e47d69c361d76af07
+Size: 6648990
+Filename: enigma2-plugin-softcams-oscam_11.711-emu-r798_all.ipk
+Description: oscam to all images OE2.0 (Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS 
+Homepage: 
+License: open
+OE: 
+
+
+
+Package: enigma2-plugin-softcams-oscam-gosatplusv2
+Version: 11.711
+Depends: libcurl4
+Section: 
+Architecture: all
+MD5Sum: e1d3f6b2963e529be111bb6e4210db8b
+Size: 3641074
+Filename: enigma2-plugin-softcams-oscam-gosatplusv2_11.711-emu-r798_all.ipk
+Description: oscam-gosatplus to all images OE2.0 (Patched and Build by linuxsat)
+Maintainer: linuxsat
+Priority: optional
+Source:  
+Homepage: www.tunisia-sat.com
+License: Proprietary
+OE: 
+
+
+Package: enigma2-plugin-softcams-oscam-revcamv2
+Version: 11.711-emu-r798
+Depends: libcurl4
+Section: 
+Architecture: all
+MD5Sum: 8b6c3b49862f791cd3cadc28d9663f38
+Size: 6675194
+Filename: enigma2-plugin-softcams-oscam-revcamv2_11.711-emu-r798_all.ipk
+Description: oscam to all images OE2.0 (Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+Homepage: 
+OE: 
+License: open
+
+
+
+Package: enigma2-plugin-softcams-oscam-supcam
+Version: 11.711-emu-r798
+Depends: libcurl4
+Section: 
+Architecture: all
+MD5Sum: 609b97e8a109003fd76500ffeba9e9af
+Size: 6649778
+Filename: enigma2-plugin-softcams-oscam-supcam_11.711-emu-r798_all.ipk
+Description: oscam to all images OE2.0 (Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+Homepage: 
+OE: 
+License: open
+
+
+
+
+
+
+
 
 
 
