@@ -301,6 +301,28 @@ OE: enigma2-plugins
 
 
 
+Package: enigma2-plugin-extensions-ipaudio
+Version: emil
+Depends: 
+Section: base
+Architecture: all
+MD5Sum: a64680ce60385ebfa61e2312a81bb9ff
+Size: 2298
+Filename: enigma2-plugin-extensions-ipaudio_emil_all.ipk
+Description: plugin-extensions-ipaudio
+Maintainer: plugin-extensions-ipaudio
+Priority: optional
+Source: none
+Homepage: unknown
+License: none
+OE: enigma2
+
+
+
+
+
+
+
 
 
 
